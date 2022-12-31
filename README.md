@@ -1,7 +1,8 @@
 # NLPDL-final_project
 This repository is for the final project of 2022-2023NLPDL Course.
 The final project I choose is domain specific nlp task , and the domain I choose is computer science.
-
+# Data Too Big , Download From Google Drive
+First of all , download data from google drive.
 ### data.py
 
 This file is an api for getting dataset
